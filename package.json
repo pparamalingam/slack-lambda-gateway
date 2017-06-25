@@ -1,0 +1,16 @@
+{
+  "name": "slack-lambda-gateway",
+  "version": "0.1",
+  "description": "Lambda function for Slack integration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pparamalingam/slack-lambda-gateway.git"
+  },
+  "author": "pparamalingam",
+  "license": "TBD",
+  "bugs": {
+    "url": "https://github.com/pparamalingam/slack-lambda-gateway/issues"
+  },
+  "homepage": "https://github.com/pparamalingam/slack-lambda-gateway"
+}
