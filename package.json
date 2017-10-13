@@ -12,5 +12,9 @@
   "bugs": {
     "url": "https://github.com/pparamalingam/slack-lambda-gateway/issues"
   },
-  "homepage": "https://github.com/pparamalingam/slack-lambda-gateway"
+  "homepage": "https://github.com/pparamalingam/slack-lambda-gateway",
+  "dependencies": {
+    "slack" : "9.0.5",
+    "aws-sdk" : "2.133.0"
+  }
 }
